@@ -1,0 +1,7 @@
+lv\va\sludinajumuportals\resource\AdvertisementController.class
+lv\va\sludinajumuportals\domain\Advertisement.class
+lv\va\sludinajumuportals\SludinajumuportalsApplication.class
+lv\va\sludinajumuportals\service\AdvertisementService.class
+lv\va\sludinajumuportals\resource\AvailabilityController.class
+lv\va\sludinajumuportals\domain\Response.class
+lv\va\sludinajumuportals\dao\AdvertisementRepository.class
